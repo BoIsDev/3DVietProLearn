@@ -65,9 +65,11 @@
     <Compile Include="Assets\CreateRoom\PanelRoomLobby.cs" />
     <Compile Include="Assets\PanelMap\PageManager.cs" />
     <Compile Include="Assets\CreateRoom\LobbyController.cs" />
+    <Compile Include="Assets\RayCast\Controller.cs" />
     <Compile Include="Assets\CreateRoom\LinhQ.cs" />
     <Compile Include="Assets\PanelMap\PanelMap.cs" />
     <Compile Include="Assets\CreateRoom\PanelCreateRoom.cs" />
+    <Compile Include="Assets\RayCast\PanelRaycast.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
